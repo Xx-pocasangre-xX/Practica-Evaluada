@@ -1,5 +1,6 @@
 $(document).ready(function(){
     $('.left-curtain').css('width', '0%');
+      // Ocultar elementos dentro de .valentines-day
     $('.right-curtain').css('width', '0%');
     $('.valentines-day').click(function(){
       $('.envelope').css({'animation':'fall 3s linear 1', '-webkit-animation':'fall 3s linear 1'});
