@@ -54,6 +54,7 @@
   .valentines-day {
     position: relative;
     cursor: pointer;
+    transform: translate(500%, 0);
   }
   
   .envelope {
